@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "question": "Would you rather fly or be invisible?",
+    "category": "fantasy"
+  },
+  {
+    "id": 2,
+    "question": "Would you rather eat pizza or ice cream?",
+    "category": "food"
+  }
+]
